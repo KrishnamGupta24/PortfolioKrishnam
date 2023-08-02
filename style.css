@@ -195,59 +195,6 @@ section.fadeIn{
 section {
     position: relative;
 }
-
-.status {
-    display: -webkit-box;
-    display: -ms-flexbox;
-    display: flex;
-    -webkit-box-align: center;
-    -ms-flex-align: center;
-    align-items: center;
-    font-size: 1.1rem;
-    font-family: Inconsolata,monospace;
-    margin-top: 70px;
-    color: #131417;
-}
-
-.status_light {
-    width: 30px;
-    height: 30px;
-    display: -webkit-box;
-    display: -ms-flexbox;
-    display: flex;
-    -webkit-box-pack: center;
-    -ms-flex-pack: center;
-    justify-content: center;
-    -webkit-box-align: center;
-    -ms-flex-align: center;
-    align-items: center;
-}
-
-.status_light_ring {
-    position: absolute;
-    width: 25px;
-    height: 25px;
-    -webkit-animation: pulsate 2s ease-out;
-    animation: pulsate 2s ease-out;
-    -webkit-animation-iteration-count: infinite;
-    animation-iteration-count: infinite;
-    opacity: 0;
-    border: 3px solid #bada55;
-    border-radius: 30px;
-}
-
-.status_light_led {
-    position: absolute;
-    width: 13px;
-    height: 13px;
-    background: #bada55;
-    border-radius: 100%;
-}
-
-.status_message {
-    margin-left: 15px;
-}
-
 body .section, html .section {
     display: -webkit-box;
     display: -ms-flexbox;
