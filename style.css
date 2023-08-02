@@ -327,40 +327,6 @@ body ul, html ul {
     width: 22px;
 }
 
-body.night .experience .job_time, body.night .footer_copyright, body.night .intro, body.night .skills .skillz_category_label, body.night .status, body.night a, body.night strong, html.night .experience .job_time, html.night .footer_copyright, html.night .intro, html.night .skills .skillz_ctegory_label, html.night .status, html.night a, html.night strong {
-    color: #e7e7e7;
-}
-
-
-/*All Keyframes*/
-@keyframes wave{
-    0% {transform: rotate(0deg);}
-    /*10%{transform: rotate(90deg);}*/
-    20% {transform: rotate(90deg);}  
-    /*30%{transform: rotate(90deg);}*/
-    40% {transform: rotate(15deg);}
-    /*50% {transform: rotate(90deg);}*/
-    60% {transform: rotate(90deg);}
-    /*70%{transform: rotate(90deg);}*/
-    80%{transform: rotate(15deg);}
-    /*90% {transform: rotate(90deg);}*/
-    100% {transform: rotate(0deg);}
-}
-
-@-webkit-keyframes wave{
-    0% {transform: rotate(0deg);}
-    /*10%{transform: rotate(90deg);}*/
-    20% {transform: rotate(90deg);}  
-    /*30%{transform: rotate(90deg);}*/
-    40% {transform: rotate(15deg);}
-    /*50% {transform: rotate(90deg);}*/
-    60% {transform: rotate(90deg);}
-    /*70%{transform: rotate(90deg);}*/
-    80%{transform: rotate(15deg);}
-    /*90% {transform: rotate(90deg);}*/
-    100% {transform: rotate(0deg);}
-}
-
 @-webkit-keyframes pulsate {
       0% {
         transform: scale(0.1, 0.1);
