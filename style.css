@@ -187,20 +187,6 @@ section.fadeIn{
     max-width: 700px;   
 }
 
-.intro_contact {
-    font-size: 1.25rem;
-    font-weight: 100;
-}
-.intro_contact .highlight-link {
-    font-weight: 400;
-    text-decoration: none;
-    display: inline-block;
-    padding: 2px 3px;
-    transition: all .2s ease-in-out;
-    text-decoration: none;
-    box-shadow: inset 0 -3px 0 #007bff;
-}
-
 .intro_contact .highlight-link:hover {
     box-shadow: inset 0 -33px 0 0 #007bff;
     color: #fff;
