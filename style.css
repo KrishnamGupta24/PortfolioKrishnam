@@ -191,16 +191,6 @@ section.fadeIn{
     font-size: 1.25rem;
     font-weight: 100;
 }
-
-
-.intro_contact .emoji.pointer {
-    background-image: url(images/right-pointing.png);
-    width: 30px;
-    height: 30px;
-    margin: 0 5px;
-    vertical-align: text-bottom;
-}
-
 .intro_contact .highlight-link {
     font-weight: 400;
     text-decoration: none;
