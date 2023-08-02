@@ -183,45 +183,6 @@ section.fadeIn{
     font-size: 2.1rem;
 }
 
-.intro_hello .wave-hand.animated {
-    position: relative;
-    animation: wave 2.0s linear;
-}
-
-.intro_hello .wave-hand.animated:hover {
-    position: relative;
-    animation: wave infinite linear;
-}
-
-.intro_hello .wave-hand {
-    background-image: url(images/waving-hand.png);
-    margin-left: 10px;
-    cursor: pointer;
-    position: relative;
-}
-
-.intro_hello .emoji {
-    width: 40px;
-    height: 40px;
-}
-
-.intro_tagline {
-    font-weight: 300;
-    max-width: 700px;   
-}
-
-.intro__tagline .name {
-    font-weight: 700;
-}
-
-.intro_tagline .technologist {
-    background-image: url(images/male-technologist.png);
-}
-
-.intro_tagline .emoji {
-    width: 40px;
-    height: 40px;
-}
 
 .intro_contact {
     font-size: 1.25rem;
